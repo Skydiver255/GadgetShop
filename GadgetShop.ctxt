@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=GadgetShop
+comment1.params=
+comment1.target=GadgetShop()
+comment2.params=gadget
+comment2.target=void\ addGadget(Gadget)
+comment3.params=
+comment3.target=void\ displayAllGadgets()
+numComments=4
